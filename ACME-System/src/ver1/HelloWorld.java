@@ -12,6 +12,10 @@ public class HelloWorld {
 		String Msg = "Hey Now!";
 		System.out.println(Msg);
 	}
+	
+	public static void whatFor(String msg) {
+		System.out.println(msg + ", what for?");
+	}
 
 
 } //https://github.com/HudsonBowen/Acme-System.git
